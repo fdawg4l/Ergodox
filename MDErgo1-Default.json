@@ -18,16 +18,16 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESC",
-                    "label": "ESC"
+                    "key": "6",
+                    "label": "6"
                 },
                 "1": {
                     "key": "F6",
                     "label": "F6"
                 },
                 "2": {
-                    "key": "FUN2",
-                    "label": "\u01922"
+                    "key": "LBRACE",
+                    "label": "["
                 }
             }
         },
@@ -344,8 +344,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "FUN2",
+                    "label": "\u01922"
                 }
             }
         },
@@ -552,8 +552,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCK2",
-                    "label": "LOCK-2"
+                    "key": "7",
+                    "label": "7"
                 },
                 "1": {
                     "key": "F7",
@@ -569,8 +569,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "6",
-                    "label": "6"
+                    "key": "7",
+                    "label": "7"
                 },
                 "1": {
                     "key": "F8",
@@ -590,8 +590,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "7",
-                    "label": "7"
+                    "key": "8",
+                    "label": "8"
                 },
                 "1": {
                     "key": "F9",
@@ -615,8 +615,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "8",
-                    "label": "8"
+                    "key": "9",
+                    "label": "9"
                 },
                 "1": {
                     "key": "F10",
@@ -640,8 +640,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "9",
-                    "label": "9"
+                    "key": "0",
+                    "label": "0"
                 },
                 "1": {
                     "key": "F11",
@@ -661,8 +661,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "0",
-                    "label": "0"
+                    "key": "MINUS",
+                    "label": "-"
                 },
                 "1": {
                     "key": "F12",
@@ -682,8 +682,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "MINUS",
-                    "label": "-"
+                    "key": "EQUAL",
+                    "label": "="
                 },
                 "1": {
                     "key": "PRINTSCREEN",
@@ -936,6 +936,10 @@
                 "0": {
                     "key": "FUN1",
                     "label": "\u01921"
+                },
+                "3": {
+                    "key": "#:None",
+                    "label": "NONE"
                 }
             }
         },
